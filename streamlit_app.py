@@ -17,3 +17,4 @@ st.text('''
 # -----------------------------------------------------------------------------
 # Declare some useful functions.
 
+st.image("https://k.sinaimg.cn/n/sinakd20230913s/290/w1080h810/20230913/eab5-82bae5056a39e32a522da4f0701cbefe.png/w700d1q75cms.jpg")
