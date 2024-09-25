@@ -17,4 +17,6 @@ st.text('''
 # -----------------------------------------------------------------------------
 # Declare some useful functions.
 
-st.camera_input("carmea image")
+image=st.camera_input("carmea image")
+if image is not None:
+    st.image(image)
